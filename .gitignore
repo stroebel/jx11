@@ -1,0 +1,45 @@
+# CMake
+build/
+build32/
+buildin/
+buildin-*/
+buildmac/
+cmake-build-*/
+bwd/
+CMakeUserPresets.json
+
+.clang-tidy
+
+# XCode
+products/
+JX11.xcodeproj
+.DS_Store
+
+# Visual Studio
+.vscode
+.cache
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Compiled Static Libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Precompiled Headers
+*.gcd
+*.pch
+
+# Compiled Dynamic Libraries
+*.so
+*.dylib
+
+# Compiled Object Files
+*.slo
+*.lo
+*.o
+*.obj
